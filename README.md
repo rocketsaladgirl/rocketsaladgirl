@@ -2,11 +2,18 @@
 <div align="center">
   
   ![Header](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
-
-  ![Profile View Counter](https://komarev.com/ghpvc/?username=rocketsaladgirl)
-  ![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katelvova@gmail.com)
-  
 </div>  
+
+<div align="center">  
+  
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=rocketsaladgirl)
+  [![GitHub followers](https://img.shields.io/github/followers/rocketsaladgirl?label=Follow&style=social)](https://github.com/rocketsaladgirl/?tab=follow)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katelvova@gmail.com)](mailto:katelvova@gmail.com)
+  [![Yandex Badge](https://img.shields.io/badge/-Yandex-f7da1e?style=flat-square&logo=Yandexl&logoColor=red&link=mailto:rocketsaladgirl@yandex.ru)](mailto:rocketsaladgirl@yandex.ru)
+</div>  
+
+  
+  
  
 
 
