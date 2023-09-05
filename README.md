@@ -1,4 +1,11 @@
-### Привет всем, меня зовут Катя и добро пожаловать на мою страницу👋
+<div align="center">
+  
+  ![Header](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+  
+</div>  
+
+<h1 align="center">👋 Привет всем, меня зовут Катя и добро пожаловать на мою страницу</h1>
+
 
 <!--
 **rocketsaladgirl/rocketsaladgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
