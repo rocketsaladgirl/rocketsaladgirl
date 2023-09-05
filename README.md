@@ -14,7 +14,7 @@
 
 <div align="center">
 
-Меня зовут Катя и я начинающий разработчик веб-сайтов и приложений из Москвы.
+Меня зовут **Катя** и я начинающий веб-разработчик, живу в Москве.
 
 </div>
 
@@ -40,6 +40,9 @@
 <a href="https://github.com/rocketsaladgirl/rocketsaladgirl">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rocketsaladgirl&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=4682B4" alt="Katerina's GitHub Stats" />
 </a>
+
+### И еще немного обо мне ✨ 
+<i>Люблю читать, играть в компьютерные игры, занимаюсь плаванием и пробую себя в яхтенном спорте ⛵</i>
   
 
 
