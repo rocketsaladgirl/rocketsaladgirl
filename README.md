@@ -1,10 +1,15 @@
+<h1 align="center"> Добро пожаловать на мою страницу 👋</h1>
 <div align="center">
   
   ![Header](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)
+
+  ![Profile View Counter](https://komarev.com/ghpvc/?username=rocketsaladgirl)
+  ![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katelvova@gmail.com)
   
 </div>  
+ 
 
-<h1 align="center"> Добро пожаловать на мою страницу 👋</h1>
+
 
 
 <!--
