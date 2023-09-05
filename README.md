@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет всем, меня зовут Катя и добро пожаловать на мою страницу👋
 
 <!--
 **rocketsaladgirl/rocketsaladgirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
