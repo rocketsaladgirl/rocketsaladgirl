@@ -34,12 +34,9 @@
 ![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE) ![Bulma](https://img.shields.io/badge/-Bulma-blue?style=flat-circle&logo=Bulma) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-circle&logo=TypeScript)
 
 ### Моя статистика 📊 :
-<a href="https://github.com/rocketsaladgirl/rocketsaladgirl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocketsaladgirl&hide=java,tex&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=4682B4&langs_count=3"/>
-</a>
-<a href="https://github.com/rocketsaladgirl/rocketsaladgirl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rocketsaladgirl&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=4682B4" alt="Katerina's GitHub Stats"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocketsaladgirl)](https://github.com/rocketsaladgirl/github-readme-stats)
+![Katerina's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocketsaladgirl&show_icons=true&theme=transparent)
+
 
 ### И еще немного обо мне ✨ 
 <i>Люблю читать, играть в компьютерные игры, занимаюсь плаванием и пробую себя в яхтенном спорте ⛵</i>
