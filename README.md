@@ -35,10 +35,10 @@
 
 ### Моя статистика 📊 :
 <a href="https://github.com/rocketsaladgirl/rocketsaladgirl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocketsaladgirl&hide=java,tex&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=4682B4&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rocketsaladgirl&hide=java,tex&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=4682B4&langs_count=3"/>
 </a>
 <a href="https://github.com/rocketsaladgirl/rocketsaladgirl">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rocketsaladgirl&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=4682B4" alt="Katerina's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rocketsaladgirl&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&bg_color=4682B4" alt="Katerina's GitHub Stats"/>
 </a>
 
 ### И еще немного обо мне ✨ 
