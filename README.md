@@ -26,7 +26,7 @@
 
 ### Мой стек 🔧 :
 ![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-circle&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-circle&logo=javascript)
-![REACT](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React) ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) ![NodeJS](https://img.shields.io/badge/-NodeJS-blue?style=flat-circle&logo=Nodejs) ![GULP](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=Gulp)
+![REACT](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React) ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) ![NodeJS](https://img.shields.io/badge/-NodeJS-blue?style=flat-circle&logo=Nodejs) ![GULP](https://img.shields.io/badge/-Gulp-blue?style=flat-circle&logo=Gulp)
 
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-blue?style=flat-circle&logo=Sublime%20Text) ![Figma](https://img.shields.io/badge/-Figma-blue?style=flat-circle&logo=Figma) ![Git](https://img.shields.io/badge/-Git-blue?style=flat-circle&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub) 
 
