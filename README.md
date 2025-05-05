@@ -8,6 +8,7 @@
 
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katelvova@gmail.com)](mailto:katelvova@gmail.com)
   [![Yandex Badge](https://img.shields.io/badge/-Yandex-f7da1e?style=flat-square&logo=Yandexl&logoColor=red&link=mailto:rocketsaladgirl@yandex.ru)](mailto:rocketsaladgirl@yandex.ru)
+  [![GitLab](https://img.shields.io/badge/-GitLab-blue?style=flat-square&logo=GitLab&logoColor=red&link=https://gitlab.bsh.ru/elvova)](https://gitlab.bsh.ru/elvova)
 </div>  
 
 <div align="center">
