@@ -9,7 +9,6 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:katelvova@gmail.com)](mailto:katelvova@gmail.com)
   [![Yandex Badge](https://img.shields.io/badge/-Yandex-f7da1e?style=flat-square&logo=Yandexl&logoColor=red&link=mailto:rocketsaladgirl@yandex.ru)](mailto:rocketsaladgirl@yandex.ru)
   ![Profile View Counter](https://komarev.com/ghpvc/?username=rocketsaladgirl)
-  [![GitHub followers](https://img.shields.io/github/followers/rocketsaladgirl?label=Follow&style=social)](https://github.com/rocketsaladgirl/?tab=follow)
 </div>  
 
 <div align="center">
@@ -24,12 +23,11 @@
 - </> Пишу лаконичный код и люблю БЭМ
 
 ### Мой стек 🔧 :
-![HTML](https://img.shields.io/badge/-HTML5-blue?style=flat-circle&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-circle&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-circle&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-blue?style=flat-circle&logo=html) ![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-circle&logo=css) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-circle&logo=javascript)
 ![REACT](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React)  ![NodeJS](https://img.shields.io/badge/-NodeJS-blue?style=flat-circle&logo=Nodejs) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-circle&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-circle&logo=TypeScript) ![Mui]([https://img.shields.io/badge/-Mui-white?style=flat-circle&logo=Mui])
 
 ### Инструменты 🔧 :
-
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) 
 ![Figma](https://img.shields.io/badge/-Figma-blue?style=flat-circle&logo=Figma) 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub) 
