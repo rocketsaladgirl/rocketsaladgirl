@@ -14,28 +14,31 @@
 
 <div align="center">
 
-Меня зовут **Катя**, я начинающий веб-разработчик, живу в Москве.
+Меня зовут **Катя**, я фронтенд-разработчик.
 
 </div>
 
 ### Обо мне <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f" width="45" />:
-- 📚 Мечтаю стать крутым программистом
-- 👩🏻‍💻 Пробую новые фреймворки
 - 💻 Учусь новому
+- 👩🏻‍💻 Открыта миру и технологиям
 - </> Пишу лаконичный код и люблю БЭМ
 
 ### Мой стек 🔧 :
-![HTML5](https://img.shields.io/badge/-HTML5-blue?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-circle&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-circle&logo=javascript)
-![REACT](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React) ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) ![NodeJS](https://img.shields.io/badge/-NodeJS-blue?style=flat-circle&logo=Nodejs) ![GULP](https://img.shields.io/badge/-Gulp-blue?style=flat-circle&logo=Gulp)
+![HTML](https://img.shields.io/badge/-HTML5-blue?style=flat-circle&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-circle&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=flat-circle&logo=javascript)
+![REACT](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React)  ![NodeJS](https://img.shields.io/badge/-NodeJS-blue?style=flat-circle&logo=Nodejs) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-circle&logo=TypeScript)
 
-![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-blue?style=flat-circle&logo=Sublime%20Text) ![Figma](https://img.shields.io/badge/-Figma-blue?style=flat-circle&logo=Figma) ![Git](https://img.shields.io/badge/-Git-blue?style=flat-circle&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub) 
+### Инструменты 🔧 :
+
+![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) 
+![Figma](https://img.shields.io/badge/-Figma-blue?style=flat-circle&logo=Figma) 
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub) 
+![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-circle&logo=GitLab)
 
 ### Изучаю 📖 :
-![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE) ![Bulma](https://img.shields.io/badge/-Bulma-blue?style=flat-circle&logo=Bulma) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-circle&logo=TypeScript)
-
-### Моя статистика 📊 :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocketsaladgirl)](https://github.com/rocketsaladgirl/github-readme-stats)
-![Katerina's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocketsaladgirl&show_icons=true&theme=transparent)
+![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE) 
+![GULP](https://img.shields.io/badge/-Gulp-blue?style=flat-circle&logo=Gulp)
+![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
 
 
 ### И еще немного обо мне ✨ 
